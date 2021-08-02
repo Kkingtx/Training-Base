@@ -25,7 +25,7 @@ public class ExercisesTest extends BaseSolution {
 
     @Test
     @Order(2)
-    public void testSolution2() throws Exception {
+    public void testSolution2() {
         assertEquals(3, iTest.getIntResult());
     }
 
