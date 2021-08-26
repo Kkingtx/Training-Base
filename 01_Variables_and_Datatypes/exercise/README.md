@@ -1,6 +1,6 @@
 # Variables and data types
 
-For this exercise, you'll need to provide a response to each of the fifty-three problems defined in the code.
+kor this exercise, you'll need to provide a response to each of the fifty-three problems defined in the code.
 
 Your goal is to create the appropriate variables with the correct data types, assign values to the variables, and specify the correct operators needed to provide the expected answer.
 
